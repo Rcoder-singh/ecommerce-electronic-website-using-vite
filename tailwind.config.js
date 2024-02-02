@@ -6,7 +6,7 @@ export default {
       colors: {
         accent: "#0989FF",
         topHeadingPrimary: "#010f1c",
-        topHeadingPrimary: "#021d35",
+        topHeadingSecondary: "#021d35",
         pink: "#FD4B6B",
       },
 
